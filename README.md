@@ -1,12 +1,12 @@
-<h1 align="center"> Stage 03 - Desafio Space Cream - EXPLORER </h1>
+<h1 align="center"> Stage 03 - Challenge Space Cream - EXPLORER </h1>
 
 <p align="center">
-Desafio desenvolvido para a conclusão do Módulo 03 (Avançando no CSS) do curso Explorer - Aplicação Space Cream na versão desktop<br/>
+Challenge developed for completing Module 03 (Advancing in CSS) of the Explorer course - Space Cream application in the desktop version<br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
@@ -14,12 +14,12 @@ Desafio desenvolvido para a conclusão do Módulo 03 (Avançando no CSS) do curs
 
 
 <p align="center">
-  <img alt="Preview página Space Creamr" src="images/preview.png" width="100%">
+  <img alt="Preview Space Cream page" src="images/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
@@ -28,12 +28,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-O layout do projeto foi desenvolvido pelos instrutores da Rocketseat como parte do material de estudos do curso Explorer. 
+The project layout was developed by Rocketseat instructors as part of the Explorer course. 
 
-## 🪪 Licença
+## 🪪 License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 <br>
 
-Feito com ♥ by Thalyta Rangel
+by Thalyta Rangel
